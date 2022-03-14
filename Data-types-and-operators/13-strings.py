@@ -4,6 +4,7 @@ print(' hello' * 5)
 #divition and subtract do not work with strinf, while plus is used to concatenate like in JS
 
 # len() is used to return the lenfth of an object (strings included)
+#len only works on a "sequence (such as a string, bytes, tuple, list, or range) or a collection (such as a dictionary, set, or frozen set)," 
 udacity_length = len('Udacity')
 print(udacity_length)
 
