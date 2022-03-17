@@ -5,6 +5,7 @@ list_length = len(list_sample)
 print(list_length)
 
 #slicing notation
+#first is inclusive and second is exclusive?
 middle = list_sample[1:2] #index : amount
 first_half = list_sample[:2] #shortcut to 0 untill index 2
 last_half = list_sample[3:] #shortcut to index until -1
