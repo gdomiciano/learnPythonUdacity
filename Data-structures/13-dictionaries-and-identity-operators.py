@@ -46,3 +46,6 @@ animals = {
 
 print(animals['dogs'][3])
 print(animals['fish'])
+
+#Summary
+#A dictionary is a mutable, unordered data structure that contains mappings of keys to values. Because these keys are used to index values, they must be unique and immutable. For example, a string or tuple can be used as the key of a dictionary, but if you try to use a list as a key of a dictionary, you will get an error.
